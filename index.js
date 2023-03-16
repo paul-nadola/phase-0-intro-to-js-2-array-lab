@@ -1,5 +1,5 @@
 // Write your solution here!
-pr = console.log
+/*pr = console.log*/
 const cats = ["Milo", "Otis", "Garfield"];
 function destructivelyAppendCat(name) {
 cats.push("Ralph")
